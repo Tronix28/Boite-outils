@@ -34,6 +34,20 @@ Prérequis
   
 Utilisation
 
-Téléchargez le fichier .bat
+Téléchargez le fichier .batv
 Double-cliquez sur le fichier pour l'exécuter
 Saisissez le numéro ou la lettre correspondant à l'option souhaitée dans le menu
+
+Exemple de Menu
+css
+Copier le code
+===============================================
+                 Menu
+===============================================
+(1) Outil Réseau
+(2) Dépannage
+(3) Processus Système
+(4) Informations Systèmes
+(5) Quitter
+(a) Éteindre la machine
+(b) Redémarrer la machine
