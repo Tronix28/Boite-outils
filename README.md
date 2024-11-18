@@ -1,3 +1,7 @@
+![GitHub all releases](https://img.shields.io/github/downloads/Tronix28/Boite-outils/total)
+
+
+
 ![Tronix (2)](https://github.com/user-attachments/assets/9c8dfeb4-d3e2-4f7c-8b1c-69d9e5caba29)
 
 Fonctionnalités
