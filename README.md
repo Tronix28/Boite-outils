@@ -36,7 +36,7 @@ Prérequis
   
 Utilisation
 
-Téléchargez le fichier .batv
+Téléchargez le fichier .bat
 Double-cliquez sur le fichier pour l'exécuter
 Saisissez le numéro ou la lettre correspondant à l'option souhaitée dans le menu
 
