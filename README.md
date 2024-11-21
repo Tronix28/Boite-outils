@@ -1,4 +1,4 @@
-![GitHub all releases](https://img.shields.io/github/downloads/Tronix28/Boite-outils/total)
+![GitHub all releases](https://img.shields.io/github/downloads/Tronix28/WinTool-Box/total)
 
 
 
